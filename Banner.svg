@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="600" viewBox="0 0 1500 600">
+  <defs>
+    <clipPath id="frame"><rect x="3" y="3" width="1494" height="594"></rect></clipPath>
+    <linearGradient id="vh" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#1a0800" stop-opacity="0.78"></stop>
+      <stop offset="35%" stop-color="#1a0800" stop-opacity="0.45"></stop>
+      <stop offset="55%" stop-color="#1a0800" stop-opacity="0.28"></stop>
+      <stop offset="100%" stop-color="#1a0800" stop-opacity="0.72"></stop>
+    </linearGradient>
+    <radialGradient id="vr" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1a0800" stop-opacity="0.25"></stop>
+      <stop offset="55%" stop-color="#1a0800" stop-opacity="0.55"></stop>
+      <stop offset="100%" stop-color="#0a0300" stop-opacity="0.85"></stop>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <image x="-200" y="-700" width="1900" height="3400" preserveAspectRatio="xMidYMid slice" href="village.jpg" xlink:href="village.jpg"></image>
+    <rect x="0" y="0" width="1500" height="600" fill="url(#vr)"></rect>
+    <rect x="0" y="0" width="1500" height="600" fill="url(#vh)"></rect>
+  </g>
+
+  <rect x="1.5" y="1.5" width="1497" height="597" fill="none" stroke="#6d1824" stroke-width="3"></rect>
+  <rect x="7.5" y="7.5" width="1485" height="585" fill="none" stroke="#897272" stroke-width="1"></rect>
+
+  <g>
+    <rect x="34" y="32" width="58" height="58" fill="none" stroke="#6d1824" stroke-width="2"></rect>
+    <text x="63" y="78" font-family="&#39;Noto Serif JP&#39;,&#39;Yu Mincho&#39;,&#39;MS Mincho&#39;,serif" font-size="42" font-weight="900" fill="#6d1824" text-anchor="middle">忍</text>
+  </g>
+  <g>
+    <rect x="1408" y="32" width="58" height="58" fill="none" stroke="#6d1824" stroke-width="2"></rect>
+    <text x="1437" y="78" font-family="&#39;Noto Serif JP&#39;,&#39;Yu Mincho&#39;,&#39;MS Mincho&#39;,serif" font-size="42" font-weight="900" fill="#6d1824" text-anchor="middle">火</text>
+  </g>
+
+  <g transform="translate(100, 195)">
+    <line x1="0" y1="0" x2="42" y2="0" stroke="#d9b46a" stroke-width="1"></line>
+    <text x="56" y="4" font-family="&#39;Courier New&#39;, monospace" font-size="12" letter-spacing="4" fill="#d9b46a">SHINOBI · DEV · CODIGO</text>
+
+    <text x="3" y="83" font-family="Georgia, serif" font-size="76" font-weight="800" fill="#2a0a0a" letter-spacing="1">YOUR NAME</text>
+    <text x="4" y="84" font-family="Georgia, serif" font-size="76" font-weight="800" fill="#6d1824" letter-spacing="1">YOUR NAME</text>
+    <text id="name" x="0" y="80" font-family="Georgia, serif" font-size="76" font-weight="800" fill="#fff8ef" letter-spacing="1">YOUR NAME</text>
+
+    <g transform="translate(0, 120)">
+      <g>
+        <rect x="0" y="0" width="118" height="30" rx="15" fill="#6d1824" stroke="#4a0f18"></rect>
+        <circle cx="14" cy="15" r="3" fill="#fff8ef"></circle>
+        <text x="24" y="20" font-family="&#39;Courier New&#39;, monospace" font-size="11" font-weight="700" fill="#fff8ef" letter-spacing="2">FULL STACK</text>
+      </g>
+      <g transform="translate(130,0)">
+        <rect x="0" y="0" width="98" height="30" rx="15" fill="#6d1824" stroke="#4a0f18"></rect>
+        <circle cx="14" cy="15" r="3" fill="#fff8ef"></circle>
+        <text x="24" y="20" font-family="&#39;Courier New&#39;, monospace" font-size="11" font-weight="700" fill="#fff8ef" letter-spacing="2">BACKEND</text>
+      </g>
+      <g transform="translate(238,0)">
+        <rect x="0" y="0" width="160" height="30" rx="15" fill="#6d1824" stroke="#4a0f18"></rect>
+        <circle cx="14" cy="15" r="3" fill="#fff8ef"></circle>
+        <text x="24" y="20" font-family="&#39;Courier New&#39;, monospace" font-size="11" font-weight="700" fill="#fff8ef" letter-spacing="2">AUTOMATIZACIÓN</text>
+      </g>
+    </g>
+
+    <g transform="translate(0, 175)">
+      <rect x="0" y="-1" width="380" height="2" fill="#6d1824"></rect>
+      <rect x="-4" y="-4" width="8" height="8" fill="#6d1824" transform="rotate(45 0 0)"></rect>
+      <rect x="376" y="-4" width="8" height="8" fill="#6d1824" transform="rotate(45 380 0)"></rect>
+    </g>
+
+    <g transform="translate(0, 210)">
+      <circle cx="4" cy="-4" r="3" fill="#d9b46a"></circle>
+      <text x="14" y="0" font-family="&#39;Courier New&#39;, monospace" font-size="13" fill="#fff8ef" opacity="0.9" letter-spacing="1">github.com/your-handle  ·  v2026.05</text>
+    </g>
+  </g>
+
+  <g transform="translate(780, 165)">
+    <text x="0" y="0" font-family="&#39;Noto Serif JP&#39;,&#39;Yu Mincho&#39;,&#39;MS Mincho&#39;,serif" font-size="16" font-weight="900" fill="#6d1824">巻</text>
+    <text x="22" y="0" font-family="&#39;Courier New&#39;, monospace" font-size="12" letter-spacing="4" fill="#d9b46a">MISSION SCROLLS</text>
+    <line x1="220" y1="-4" x2="620" y2="-4" stroke="#d9b46a" stroke-width="1" opacity="0.5"></line>
+
+    <g transform="translate(0, 18)">
+      <rect x="3" y="3" width="620" height="64" fill="#000" opacity="0.45"></rect>
+      <rect x="0" y="0" width="620" height="64" fill="#1a0800" opacity="0.78" stroke="#897272" stroke-opacity="0.35"></rect>
+      <rect x="0" y="0" width="4" height="64" fill="#6d1824"></rect>
+      <polygon points="620,0 606,0 620,14" fill="#6d1824"></polygon>
+      <g transform="translate(20, 18)">
+        <rect x="2" y="2" width="78" height="28" fill="#000"></rect>
+        <rect x="0" y="0" width="78" height="28" fill="#6d1824" stroke="#000" stroke-opacity="0.5"></rect>
+        <text x="39" y="19" font-family="&#39;Courier New&#39;, monospace" font-size="11" font-weight="700" fill="#fff8ef" letter-spacing="2" text-anchor="middle">S-RANK</text>
+      </g>
+      <text x="120" y="26" font-family="&#39;Courier New&#39;, monospace" font-size="10" letter-spacing="3" fill="#d9b46a" opacity="0.85">PRIMERA MISIÓN</text>
+      <text id="org1" x="120" y="50" font-family="Georgia, serif" font-size="22" font-weight="800" fill="#fff8ef" letter-spacing="1">CORPACERO SAS</text>
+      <text x="588" y="42" font-family="&#39;Noto Serif JP&#39;,&#39;Yu Mincho&#39;,&#39;MS Mincho&#39;,serif" font-size="22" font-weight="900" fill="#6d1824" opacity="0.9">壱</text>
+    </g>
+
+    <g transform="translate(0, 96)">
+      <rect x="3" y="3" width="620" height="64" fill="#000" opacity="0.45"></rect>
+      <rect x="0" y="0" width="620" height="64" fill="#1a0800" opacity="0.78" stroke="#897272" stroke-opacity="0.35"></rect>
+      <rect x="0" y="0" width="4" height="64" fill="#6d1824"></rect>
+      <polygon points="620,0 606,0 620,14" fill="#6d1824"></polygon>
+      <g transform="translate(20, 18)">
+        <rect x="2" y="2" width="78" height="28" fill="#000"></rect>
+        <rect x="0" y="0" width="78" height="28" fill="#3a5141" stroke="#000" stroke-opacity="0.5"></rect>
+        <text x="39" y="19" font-family="&#39;Courier New&#39;, monospace" font-size="11" font-weight="700" fill="#fff8ef" letter-spacing="2" text-anchor="middle">A-RANK</text>
+      </g>
+      <text x="120" y="26" font-family="&#39;Courier New&#39;, monospace" font-size="10" letter-spacing="3" fill="#d9b46a" opacity="0.85">SEGUNDA MISIÓN</text>
+      <text id="org2" x="120" y="50" font-family="Georgia, serif" font-size="22" font-weight="800" fill="#fff8ef" letter-spacing="1">RIWI</text>
+      <text x="588" y="42" font-family="&#39;Noto Serif JP&#39;,&#39;Yu Mincho&#39;,&#39;MS Mincho&#39;,serif" font-size="22" font-weight="900" fill="#6d1824" opacity="0.9">弐</text>
+    </g>
+
+    <g transform="translate(0, 174)">
+      <rect x="3" y="3" width="620" height="64" fill="#000" opacity="0.45"></rect>
+      <rect x="0" y="0" width="620" height="64" fill="#1a0800" opacity="0.78" stroke="#897272" stroke-opacity="0.35"></rect>
+      <rect x="0" y="0" width="4" height="64" fill="#6d1824"></rect>
+      <polygon points="620,0 606,0 620,14" fill="#6d1824"></polygon>
+      <g transform="translate(20, 18)">
+        <rect x="2" y="2" width="78" height="28" fill="#000"></rect>
+        <rect x="0" y="0" width="78" height="28" fill="#3a5141" stroke="#000" stroke-opacity="0.5"></rect>
+        <text x="39" y="19" font-family="&#39;Courier New&#39;, monospace" font-size="11" font-weight="700" fill="#fff8ef" letter-spacing="2" text-anchor="middle">A-RANK</text>
+      </g>
+      <text x="120" y="26" font-family="&#39;Courier New&#39;, monospace" font-size="10" letter-spacing="3" fill="#d9b46a" opacity="0.85">TERCERA MISIÓN</text>
+      <text id="org3" x="120" y="50" font-family="Georgia, serif" font-size="22" font-weight="800" fill="#fff8ef" letter-spacing="1">BLACKBIRD LABS</text>
+      <text x="588" y="42" font-family="&#39;Noto Serif JP&#39;,&#39;Yu Mincho&#39;,&#39;MS Mincho&#39;,serif" font-size="22" font-weight="900" fill="#6d1824" opacity="0.9">参</text>
+    </g>
+  </g>
+
+  <g transform="translate(100, 555)">
+    <circle cx="4" cy="-4" r="4" fill="#7fbf6a"></circle>
+    <text x="16" y="0" font-family="&#39;Courier New&#39;, monospace" font-size="11" letter-spacing="3" fill="#fff8ef" opacity="0.85">STATUS · ACTIVO EN MISIÓN</text>
+  </g>
+
+  <g transform="translate(1370, 525) rotate(-6)">
+    <rect x="3" y="3" width="60" height="60" fill="#000"></rect>
+    <rect x="0" y="0" width="60" height="60" fill="#1a0800" fill-opacity="0.55" stroke="#6d1824" stroke-width="2"></rect>
+    <rect x="4" y="4" width="52" height="52" fill="none" stroke="#fff8ef" stroke-opacity="0.35" stroke-dasharray="3 3"></rect>
+    <text x="30" y="42" font-family="&#39;Noto Serif JP&#39;,&#39;Yu Mincho&#39;,&#39;MS Mincho&#39;,serif" font-size="28" font-weight="900" fill="#fff8ef" text-anchor="middle">道</text>
+  </g>
+</svg>
