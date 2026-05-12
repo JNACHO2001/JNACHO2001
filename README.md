@@ -74,6 +74,4 @@ Automatización ████████████████░░  80%  ⚡
 
 ---
 
-## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-jose.gomez%40bblabs.io-blue?style=flat-square&logo=gmail)](mailto:jose.gomez@bblabs.io)
