@@ -46,7 +46,7 @@ Desarrollador Full-Stack orientado a resultados, con experiencia en arquitectura
 | 🍃 **MongoDB** | NoSQL | Documentos flexibles, escalabilidad horizontal |
 | 🐘 **PostgreSQL** | SQL | Relacional robusto, consultas complejas, integridad total |
 
-### ⚡ Automatizaciones — Kinjutsu Productivo
+### ⚡ Automatizaciones — jutsus Prohibidos
 
 | Herramienta | Descripción |
 |------------|-------------|
